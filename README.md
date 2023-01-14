@@ -1,2 +1,8 @@
-# r2template
-This repository is a template-repository that contains the basic structure for a risk of rain 2 mod. Names are left empty in the solution, manifest, and csproj files for the user to fill out
+# Improved Mobile AI
+Tweaks the AI of the TR-58 Carbonizer Turrets to be more aggressive.
+
+Chase Range increased to 60m (from 25m) ((this is not their laser range, only their targeting range))
+
+Strafe Range Minimum decreased to 5m (from 15m)
+
+Added various targeting priorities the turrets will try to use (default is highest health).
